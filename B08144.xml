@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devotions and formes of prayer, daily vsed in the king of Svvedens army: being the first part of our intended booke concerning the Svvedish discipline; religious, civill, and military..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1632</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08144</idno>
+            <idno type="OCLC"> 82475526</idno>
+            <idno type="STC">STC 23519.5</idno>
+            <idno type="STC">ESTC S126259</idno>
+            <idno type="EEBO-CITATION">82475526</idno>
+            <idno type="OCLC">ocm 82475526</idno>
+            <idno type="VID">185186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2256:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devotions and formes of prayer, daily vsed in the king of Svvedens army: being the first part of our intended booke concerning the Svvedish discipline; religious, civill, and military..</title>
+               </titleStmt>
+               <extent>[4], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathanaell Butter and Nicholas Bourne.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1632..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Head-pieces, initials.</note>
+                  <note>Signatures: A² B-E⁴ F².</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Svenska kyrkan --  Liturgy --  Texts --  English.</term>
+               <term>Svenska kyrkan --  Prayers and devotions --  Early works to 1800.</term>
+               <term>Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185186:1" rendition="simple:additions"/>
+            <p>THE DEVOTIONS AND FORMES OF PRAYER, DAILY VSED IN THE KING OF SVVEDENS ARMY: Being the firſt part of our inten<g ref="char:EOLhyphen"/>ded Booke concerning the SVVE<g ref="char:EOLhyphen"/>DISH DISCIPLINE; <hi>Religious, Civill,</hi> and <hi>Military.</hi>
+            </p>
+            <p>The Reaſon for our publiſhing this by it ſelfe, wee deſire the Reader to looke for in the Epiſtle.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathanaell Butter</hi> and <hi>Nicholas Bourne.</hi> 1632.
+<pb facs="tcp:185186:2"/>
+               <pb facs="tcp:185186:2"/>
+               <pb facs="tcp:185186:3" rendition="simple:additions"/>
+               <pb facs="tcp:185186:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="stationer_to_the_reader">
+            <pb facs="tcp:185186:4"/>
+            <pb facs="tcp:185186:4"/>
+            <head>¶ The Stationer to the Reader.</head>
+            <opener>
+               <salute>Favourable and judicious:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat having beene heretofore by promiſe engaged to giue you all the three parts of the <hi>Swe<g ref="char:EOLhyphen"/>diſh Diſcipline,</hi> wee are heere enforced to preſent you with the <hi>firſt</hi> onely, and that diſmembred from the other <hi>two;</hi> We humbly deſire you to accept of this fayre ex<g ref="char:EOLhyphen"/>cuſe for it. Tis done to prevent your being abuſed by an<g ref="char:EOLhyphen"/>other: who ayming (as may be ſuſpected) more at his owne profit, than the benefit of his Reader: vpon hope of venting his Booke vnder that moſt acceptable name of this victorious King; is about to thruſt theſe following Prayers vpon the world; barely taken, and perchance not ſo literally tranſlated, out of the Booke called <hi>Arma Suecica.</hi> One thing or two (beſides the vſeleſſeneſſe of the volume he is about to Print it in) over-ſlipped in his Tranſlation, wee here thinke fit to tell you of, which vpon ſight of ſome of the printed ſheetes (the Copie ha<g ref="char:EOLhyphen"/>ving by himſelfe beene before ſold vnto vs) we diſcovered.
+<pb facs="tcp:185186:5"/>
+               <hi>Firſt,</hi> That his Tranſlator hath no where obſerved how many ſentences in theſe Prayers (which are taken out of the Common Prayer Booke vſed in the Kingdome of <hi>Sweden</hi>) are the ſame with thoſe in our Engliſh Common Prayer Booke: the reaſon of it being, for that both our Common Prayer Booke and theirs, were taken out of one and the ſame Treaſury of Antiquitie.</p>
+            <p>The ſecond omiſsion of his Tranſlater is this: That he hath not beene diligent enough to turne vnto thoſe pla<g ref="char:EOLhyphen"/>ces of holy <hi>Scripture,</hi> out of which the moſt of theſe Prayers are gathered: nor hath obſerved the allowed and beſt Tranſlation of our Church; but done it in his owne phraſes. And that our Booke hath beene carefull in this poynt, wee appeale to the <hi>Scriptures</hi> quoted in the Margent: which is a third thing in which his other Booke is alſo defectiue. As for other differences in per<g ref="char:EOLhyphen"/>formance, in the <hi>faithfulneſſe</hi> and <hi>literallneſſe</hi> of Tranſlation; that wee wholly referre vnto the Iudge<g ref="char:EOLhyphen"/>ment of the able Readers.</p>
+            <p>Thus having made you acquainted with our purpoſe; wee alſo referre it vnto your diſcretions, either to ſtay your hands from buying of eyther; or thoſe that buy ours, to keepe it till next weeke that the other two Parts come out alſo: at which time they may be bound together, as was at firſt intended. The ſecond part of the <hi>Intelli<g ref="char:EOLhyphen"/>gencer</hi> is likewiſe now in hand, which we hope ere long to furniſh you with, if it pleaſes God.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:185186:5"/>
+            <head>THE CHRISTIAN PART OF THE KING OF SVVEDENS DISCIPLINE. The first Part.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not without a my<g ref="char:EOLhyphen"/>ſtery, I ſuppoſe, that the old <hi>Iſraelites</hi> had an Ar<g ref="char:EOLhyphen"/>mory in their Temple: they would ſhew us, That theſe two cannot well be parted. And truely, me-thinkes, that a Temple in an Ar<g ref="char:EOLhyphen"/>my, is none of the weakeſt peices of fortifi<g ref="char:EOLhyphen"/>cation. How prevalent an Orator, the pray<g ref="char:EOLhyphen"/>ers of devout warriours haue beene with the
+<pb n="2" facs="tcp:185186:6"/>Lord of Hoſts; the conqueſts and examples of the ſame old <hi>Iſraelites,</hi> may abundantly in<g ref="char:EOLhyphen"/>forme us. How often hath victory (and that almoſt viſibly too, I am ſure, ſenſibly) come ryding downe upon the triumphant wings of devout prayer?</p>
+            <p>The <hi>Tabernacle</hi> carried about by that moſt Chriſtian Emperour <hi>Conſtantine,</hi> where ever his Campe went; and where, in ſtead of a <hi>Temple</hi> hee celebrated his daily devotions: conquered more, perchance, for him, than ten of his heathen Legions. If <hi>Moſes</hi> prayes, whileſt <hi>Ioſuah</hi> fights,<note place="margin">Exod. 17.</note> 
+               <hi>Amalek</hi> muſt needes be dung downe. This our moſt pious Conque<g ref="char:EOLhyphen"/>rour now, that he might as neerly as might be, reſemble that great <hi>Hebrew Generall,</hi> that firſt of the nine <hi>Worthies:</hi> and that ever-glori<g ref="char:EOLhyphen"/>ous <hi>Conſtantine,</hi> that firſt of the Chriſtian Em<g ref="char:EOLhyphen"/>perours; hath not courage enough (it ſeemes) to adventure himſelfe into the field, till he firſt be impregnably fortified with this <hi>holy Spell,</hi> this <hi>whole armour of God.</hi>
+            </p>
+            <p>Vpon the dayes of the <hi>Iſraelites</hi> March, when their Camp in the Wilderneſſe remo<g ref="char:EOLhyphen"/>ved, and the <hi>Arke</hi> of God with it; <hi>Moſes</hi> had prayers then twice a day: at the <hi>Riſing,</hi> name<g ref="char:EOLhyphen"/>ly, and at the <hi>Setting</hi> downe of the <hi>Arke</hi> againe,<note place="margin">Num. 10.35</note>
+               <pb n="3" facs="tcp:185186:6"/>had <hi>Iſrael</hi> a ſet forme of prayer. And that this religious King, might not ſeeme to <hi>fight the Lords Battells,</hi> without the Lords direction, he hath taken order to haue it call'd for, by moſt ſolemne and frequent prayers; twice aday uſed throughout his whole Leaguer. And that not onely when the Campe re<g ref="char:EOLhyphen"/>moues; but when it lyes ſtill too: not onely before a battell, or a danger (as if he were at Sea) but even when no enemy is at hand; even then he prayes too. And not onely commands his Army twice a day; but himſelfe, as I heare, uſes to ſet apart many whole dayes, to his owne pious privacy, and his cloſeſt devotions: upon which may no man then ſpeake to him, becauſe he then ſpeakes with God <hi>Behold here are two ſwords;</hi> Fighting and Praying, and Praying &amp; Figh<g ref="char:EOLhyphen"/>ting: thus hath the King of <hi>Sweden</hi> learn'd to conquer. It is none of the unpolitikeſt parts of his Majeſties new Diſcipline, that I now preſent you with; which the exemplary pie<g ref="char:EOLhyphen"/>tie of that religious Prince, hath taught me to put in the firſt place of his Diſcipline; ſeeing in the following Articles of his civill Diſcipline, himſelfe giues the firſt place unto thoſe Articles, which concerne God and his ſervice.</p>
+            <pb n="4" facs="tcp:185186:7"/>
+            <p>To croſſe that <hi>Proverbiall</hi> Verſe therefore which ſayes <hi>that Souldiers haue neyther Faith nor Religion in them,</hi> I will here afford you ſome of thoſe Formes of his daily prayer, frequented in every Quarter of his Leaguer, as I finde them in the Booke called <hi>Arma Suecica, Pag</hi> 77.</p>
+            <div n="1" type="part">
+               <head>¶ <hi>The Prayers.</hi>
+               </head>
+               <div type="prayer">
+                  <head>In time of our Neceſsities, and for the Chriſtian Church.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <seg rend="decorInit">O</seg> Almightie and eternall Lord God, who delighteſt not in the death of a ſinner, but wouldeſt rather that all ſhould liue and come to the knowledge of the truth: we humbly intreate thee by thy Chriſt, thine onely Sonne, our Lord; that thou wouldeſt pleaſe to beſtow thy grace upon all faithfull Doctors and Teachers; to the intent they may purely and clearely deli<g ref="char:EOLhyphen"/>ver thy Word: and that all ſuch as eyther hate it, or with falſe doctrine corrupt it, or by force perſecute it; thy teachers may be a<g ref="char:EOLhyphen"/>ble
+<pb n="5" facs="tcp:185186:7"/>manfully to reſiſt; and ſo enlighten them, that they may bring them to the knowledge of thy ſelfe. Grant, mercifull Father, thy Holy Spirit unto all Chriſtian and lawfull Magiſtrates, that they may well and peacea<g ref="char:EOLhyphen"/>bly rule their own Subjects; and that under them we all leading a quiet and a blameleſſe life; may with a true faith celebrate the ri<g ref="char:EOLhyphen"/>ches of thy grace; and with a conſtant mind in all holineſſe and righteouſneſſe, as may be pleaſing; ſerue thee the true God and Lord of Lords, thorough thy only beloved Sonne Ieſus Chriſt our Lord. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another Prayer to the ſame purpoſe.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> ALmightie and everlaſting God, Creator of Heaven and Earth; we thy poore children, doe from the bottome of our hearts in the name of thy beloved Sonne Ieſus Chriſt entreat thee: that by the power of thy Spirit thou wouldſt be pleaſed to di<g ref="char:EOLhyphen"/>rect thine owne Chriſtian Church, with all the true ſervants of it: that with conſtancy they may cleaue unto thy Word; ſo increa<g ref="char:EOLhyphen"/>ſing in faith, hope, charitie, and patience un<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:185186:8"/>to the end, that they may be ſaved. Vouch<g ref="char:EOLhyphen"/>ſafe thy divine grace alſo, unto all Chriſtian Kings, Princes, and Governours; and eſpe<g ref="char:EOLhyphen"/>cially the King our Soveraigne Lord: and to all their Counſellours and chiefe Officers; that they may ſo rule their Subjects, thy peo<g ref="char:EOLhyphen"/>ple, well and according to thy good pleaſure; as that peace, good dealing, and righteouſnes, may be cheriſhed; troubles, injuſtice, and all wickedneſſe, may be baniſhed, and quite ta<g ref="char:EOLhyphen"/>ken out of the way.</p>
+                  <p>Looke mercifully upon our enemies, and upon all thoſe that perſecute us: cauſe that both they and we, may ſeriouſly repent us of our ſinnes: grant them and us and all the whole Chriſtian world, ſuch a minde to the loue of peace, that we may ſerue thee, O ho<g ref="char:EOLhyphen"/>ly God, in all pietie and honeſtie.</p>
+                  <p>Comfort, moreover, all thoſe that are af<g ref="char:EOLhyphen"/>flicted, poore, ſicke, ſorrowfull, diſtreſſed captiues, troubled in minde, thoſe that ſuffer perſecution or temptation; that they may beare the croſſe patiently, and obtaine at laſt a happie iſſue out of all their troubles. Bleſſe the fruits of the earth alſo unto us, for the ne<g ref="char:EOLhyphen"/>ceſſary nouriſhment of our bodies; and pre<g ref="char:EOLhyphen"/>ſerve them from all danger and ill weather.
+<pb n="7" facs="tcp:185186:8"/>And eſpecially be thou preſent with us in this our expedition; pardon our ſinnes, and mercifully turne away from us theſe puniſh<g ref="char:EOLhyphen"/>ments which we haue deſerved.</p>
+                  <p>Keepe ſafe, moreover, our Lord the King from all dangers both of ſoule and body, preſerue all his Captaines &amp; Commanders, higher and lower together with his whole Army, and our fellow-Souldiers. Grant us, O Lord our God, unanimous and ſincere minds, wiſe direction, happie proceedings, and our deſired end, in all our actions and endevours: So as may beſt make to the glo<g ref="char:EOLhyphen"/>ry of thy holy Name, the quietneſſe, peace, comfort, joy, and happineſſe, finally, both temporall and eternall; of our ſelues, Coun<g ref="char:EOLhyphen"/>trey, and all theſe afflicted Chriſtians, which profeſſe the Orthodox and true faith. Shew us ſome token for good,<note place="margin">Pſal. 86.17.</note> that they which hate us may ſee it and be aſhamed: becauſe thou Lord haſt holpen us, and comforted us. Theſe bleſſings that thou wouldeſt vouch<g ref="char:EOLhyphen"/>ſafe unto us, we thy poore children entreate thee humbly, by the death &amp; paſſion of thy onely Sonne Ieſus Chriſt, who liueth and reigneth with thee world without end. A<g ref="char:EOLhyphen"/>men.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="8" facs="tcp:185186:9"/>
+                  <head>Another Prayer to the ſame purpoſe.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> OMnipotent and eternall God, Father of our Lord Ieſus Chriſt, Creator and preſerver of all things: moſt humbly we entreate thee, together with thy beloved Sonne and holy Spirit, that thou wouldeſt be pleaſed to be favourable unto us; even for the merits of thy Sonne Ieſus Chriſt: whom in thy wonderfull counſell thou haſt given us to be a Sacrifice for our ſinnes, and whom thou haſt appoynted to be our Advocate and Mediator; that by Him thou mighteſt expreſſe thy juſtly conceived anger againſt the ſinnes of the world; and thy mercies to<g ref="char:EOLhyphen"/>wards us. Sanctifie Lord and guide us by thy Holy Spirit: gather, governe, and preſerue thy Chriſtian Church; giue us thy grace, that according unto what thou haſt in thy holy Word preſcribed us, we may liue holi<g ref="char:EOLhyphen"/>ly and unblamedly in this preſent world. Preſerve our Lord the King,<note place="margin">The Queene of <hi>Swedens</hi> name is <hi>Maria Eleonora;</hi> ſiſter unto <hi>George William,</hi> now Marqueſſe &amp; Elector of <hi>Brandenburg.</hi> This young Lady their Daughter be<g ref="char:EOLhyphen"/>ing the onely childe of the King of <hi>Swe<g ref="char:EOLhyphen"/>den,</hi> now liu<g ref="char:EOLhyphen"/>ing, is named <hi>Chriſtina:</hi> who was by the States of <hi>Swe<g ref="char:EOLhyphen"/>den</hi> in the Parliament of <hi>Stockholme. An.</hi> 1627. recei<g ref="char:EOLhyphen"/>ved for their Queene, in caſe the King ſhould dye without o<g ref="char:EOLhyphen"/>ther Iſſue.</note> our ſoveraigne Lady the Queene, their royall Daughter, and all the regall Family, unto the glory of thy Name, and the generall comfort and protec<g ref="char:EOLhyphen"/>tion of us all. Grant us a good government in the Common-wealth, and whatſoever els
+<pb n="9" facs="tcp:185186:9"/>is neceſſary for our wel-being; Peace, name<g ref="char:EOLhyphen"/>ly, a happie government, with a good and an honeſt neighbourhood. Bleſſe, finally, our counſells &amp; our enterpriſes: and that through Ieſus Chriſt our Lord, who liveth and reig<g ref="char:EOLhyphen"/>neth with thee and the holy Spirit, one God true and coequall. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another Prayer to the ſame purpoſe.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> MOſt mercifull God, and heavenly Fa<g ref="char:EOLhyphen"/>ther: wee giue unto thee all thankes for thoſe thy benefits, which untill this day thou out of thy Fatherly goodneſſe haſt beſtowed upon us. And firſt of all, for that thou haſt redeemed us by thy Sonne, and haſt in thy Word revealed him unto us, in whom thou offereſt remiſſion of ſinnes, righteouſneſſe, and everlaſting life, unto all men, that with a penitent heart and true faith embrace it.</p>
+                  <p>Preſerue we beſeech thee pure and uncor<g ref="char:EOLhyphen"/>rupt, thine owne holy Word &amp; Sacraments, in theſe dangerous times, againſt all Here<g ref="char:EOLhyphen"/>ticks and falſe Teachers. Eſpecially againſt the Papiſts: who at this preſent with many
+<pb n="10" facs="tcp:185186:10"/>bloudy ſlaughters, and inhumane tyranny, doe like ravening Wolues &amp; roaring Lyons, undeſervedly ſcatter and devoure thy poore Chriſtian flooke. Looke downe O Lord upon the miſerable condition of thy people, refraine the inſolency of their enemies, hin<g ref="char:EOLhyphen"/>der thou their bloudy purpoſes, that ſo they may perceiue, that thou thy ſelfe fighteſt for thy holy Church; nor wilt giue it for a prey unto them.</p>
+                  <p>Next, O Lord, pray we for all thoſe De<g ref="char:EOLhyphen"/>puties of thine, to whom thou haſt commit<g ref="char:EOLhyphen"/>ted the government of the Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealth, and the ſword of juſtice. For our own King firſt of all, whom thou in mercy haſt ſet o<g ref="char:EOLhyphen"/>ver us, to be our head and protector: Pre<g ref="char:EOLhyphen"/>ſerue his Majeſtie from all perills, as well ſe<g ref="char:EOLhyphen"/>cret as open: grant proſperitie of ſucceſſe un<g ref="char:EOLhyphen"/>to him: victory and deliverance againſt the enemies of his perſon and Kingdome. De<g ref="char:EOLhyphen"/>fend him, Lord, with the ſtrength of thy right hand in this preſent and dangerous ex<g ref="char:EOLhyphen"/>pedition; which for the ſafetie of his owne Kingdome, and for the obteyning of a good Peace, he hath undertaken: and graunt that the Warres being brought unto a happie end, both himſelfe and his whole Army,
+<pb n="11" facs="tcp:185186:10"/>may ſafely returne againe into their owne Countries.</p>
+                  <p>Nor leſſe earneſtly doe wee recommend unto thee our Soveraigne Lady the Queenes Majeſtie, with her royall Daughter: Bleſſe Lord both him and her, and keepe them both with thy Fatherly goodneſſe and mer<g ref="char:EOLhyphen"/>cy. Wee recommend unto thee in like man<g ref="char:EOLhyphen"/>ner the Right Honourable the privie Coun<g ref="char:EOLhyphen"/>ſellours and chiefe Magiſtrates of his King<g ref="char:EOLhyphen"/>dome: ſo governe and direct them all with thy Holy Spirit; that they may preferre thy glory before all; and with an honeſt and a good heart, ſtudy the proſperitie both of King and Kingdome, Pray we alſo for his Majeſties Army, and Navy, and for all his Mettall mynes, and all things elſe, which may be beneficiall unto the Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealth, and commodious unto the Subject. Turne a<g ref="char:EOLhyphen"/>way, for thy Chriſts ſake, what ever may eyther deſtroy or endanger them: and giue a bleſſing unto any thing, that may any wayes advance the truth of our Religion, and our Country in generall. Looke favourably, O heavenly Father, upon all the Profeſſors of the ſame true religion with us; who being ſorely at this preſent oppreſſed by the Pa<g ref="char:EOLhyphen"/>piſts,
+<pb n="12" facs="tcp:185186:11"/>ſuffer the loſſe both of their liues and fortunes: Succour them, Lord, that they may bee delivered from theſe troubles. Keepe us in health from the noyſome peſti<g ref="char:EOLhyphen"/>lence, from ſudden and unhappie death; from dearth, famine, ſcar-fires, mutinyes, diſagreements amongſt our ſelues, and from hayle and tempeſt. Infuſe into our hearts concord, faithfulneſſe, and mutuall charitie. Comfort all thoſe that are afflicted, ſicke, in priſon or calamitie. Succour and comfort all widowes and fatherleſſe, women with childe, and that giue ſucke. Be thou guide unto all thoſe that travell eyther by land or by water: that they walking in thy right paths, and having proſperouſly diſpatched their owne buſineſſe, may ſafely returne at length unto their owne families. Deliver us, Lord God, from all evill: and when our fa<g ref="char:EOLhyphen"/>tall houre of death ſhall come, mercifully receiue us into thy Kingdome: tranſlate our ſoules out of this vale of miſery, into thy heavenly Paradiſe, where we may laud and prayſe thee for it, world without end, A<g ref="char:EOLhyphen"/>men.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="13" facs="tcp:185186:11"/>
+                  <head>
+                     <hi>II.</hi> A Prayer for forgiueneſſe of ſinnes.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> O Lord God, heavenly Father, who de<g ref="char:EOLhyphen"/>lighteſt not in the death of a ſinner, nor wouldeſt that he ſhould periſh, but that he ſhould be converted and liue: we humbly entreate of thee, mercifully to turne from us thoſe puniſhments which our ſinnes haue deſerved: and that thou wouldſt be pleaſed in plentifull manner to beſtow thy mercy upon us, thorough Ieſus Chriſt our Lord. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another Prayer to the ſame purpoſe.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> O Wel-beloved Lord Ieſus Chriſt, haue mercy upon us miſerable ſinners; and looke with the eyes of compaſ<g ref="char:EOLhyphen"/>ſion upon us, as thou ſomtimes diddeſt upo<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Mary Magdalene,</hi> that penitent ſinner, when lying at thy feete, ſhee from the bottome of her heart ſincerely bewayled her owne tranſgreſſions: and the <hi>Publican</hi> in the Tem<g ref="char:EOLhyphen"/>ple when he ſmote upon his breaſt, and im<g ref="char:EOLhyphen"/>plored thy favour: and the <hi>Theefe</hi> upon the
+<pb n="14" facs="tcp:185186:12"/>Croſſe when he entreated and obteyned thy pardon. Lord grant us to receiue the ſame this day from thee: abſolue thou us in Hea<g ref="char:EOLhyphen"/>ven, forgiue us our ſinnes, O God, thou au<g ref="char:EOLhyphen"/>thor of all comfort. Caſt us not away from thy preſence; but cauſe us ſo to walke in thy feare, that in faith and loue wee may ſerue and pleaſe thee, thorough Ieſus Chriſt our Lord. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>III.</hi> For Peace and Concord.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> GIue peace, in our time, O Lord: becauſe there is no other that fighteth for us, but onely thou O God. Giue peace unto our King, and all other Princes: direct them rightly to govern the Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealth: and grant that under them wee may liue a quiet and a peaceable life, in all pietie and honeſtie. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="15" facs="tcp:185186:12"/>
+                  <head>Another.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> O Lord God heavenly Father, from whom all courage of minde, good counſayle, and juſt workes doe pro<g ref="char:EOLhyphen"/>ceede; giue unto thy ſervants that peace which the world cannot giue: that both our hearts may depend vpon thy Comman<g ref="char:EOLhyphen"/>dements; and alſo that being ſafe under thy protection, wee may paſſe our time in reſt and quietneſſe, thorough Ieſus Chriſt our Lord. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> O Almightie and eternall God, King of glory and Lord of Heaven and Earth; by whoſe Spirit all things are gover<g ref="char:EOLhyphen"/>ned, and by whoſe becke and providence all things are directed: thou onely art the God of peace, from whom all peace and concord doe proceede: wee humbly beſeech thee to forgiue us our ſinnes, and to giue us thy ho<g ref="char:EOLhyphen"/>ly peace and true concord: that in thy feare we may ſerue thee, and for ever laud &amp; praiſe
+<pb n="16" facs="tcp:185186:13"/>thee: who together with the Sonne and Ho<g ref="char:EOLhyphen"/>ly Ghoſt liveſt and reigneſt one true and e<g ref="char:EOLhyphen"/>ternall God. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>IV.</hi> For the King.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> ALmightie God, heavenly Father, for Ie<g ref="char:EOLhyphen"/>ſus Chriſt thy beloved Sonne we be<g ref="char:EOLhyphen"/>ſeech thee, favourably to looke downe upon our King: guide him with thy holy Spirit: keepe him with a guard of thine An<g ref="char:EOLhyphen"/>gels, againſt all dangers both of ſoule and body: keepe him ſafely from all misfortunes: ſo bring it to paſſe, that by the expedition which he now makes, we may be delivered from our enemies; and that by his ſafe re<g ref="char:EOLhyphen"/>turne, we being made joyfull; may from thenceforth laud, honour, and prayſe thee, world without end. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> THe King ſhall rejoyce in thy ſtrength, O Lord:<note place="margin">Pſal. 21.</note> exceeding glad ſhall he be of thy ſalvation. Thou haſt given him
+<pb n="17" facs="tcp:185186:13"/>his hearts deſire; and not denyed him the re<g ref="char:EOLhyphen"/>queſt of his lippes For thou haſt filled him with the beſt of thy bleſſings; and haſt ſet a Crowne of pure gold upon his head. He aſ<g ref="char:EOLhyphen"/>ked life of thee, and thou gaveſt him a long life, even for ever and ever. His honour is great in thy ſalvation: glory and great wor<g ref="char:EOLhyphen"/>ſhip haſt thou laid upon him. For thou haſt filled him with all kind of bleſſings for ever; and thou ſhalt make him glad with the joy of thy countenance. Heare him, Lord,<note place="margin">Pſal. 20.1.</note> in the time of trouble, let thy Name ſet him in a ſafe place. Send him helpe from the Sanctu<g ref="char:EOLhyphen"/>ary, and ſtrengthen him out of <hi>Sion.</hi> Remem<g ref="char:EOLhyphen"/>ber alſo all his offerings; and accept his burnt Sacrifice. Grant him his hearts deſire, and fulfill all his mind. Helpe Lord thine Anoin<g ref="char:EOLhyphen"/>ted, and heare him from thy Sanctuary, through Ieſus Chriſt. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> GRant peace, O God, unto our King and all his Officers, well to governe the Common-wealth: that vnder them we may lead a Chriſtian, a quiet, and a peace<g ref="char:EOLhyphen"/>able
+<pb n="18" facs="tcp:185186:14"/>life, in all devotion, and in honeſtie, A<g ref="char:EOLhyphen"/>men.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> O Eternall and mercifull God, heaven<g ref="char:EOLhyphen"/>ly Father, that haſt the hearts of all Kings in thy hands, and boweſt them which way thou pleaſeſt; ſo bring it to paſſe that by this troubleſome warre, the meanes of making a good agreement, and of eſta<g ref="char:EOLhyphen"/>bliſhing a ſure peace, may be found out: all heart-burning, offences, and diſſention removed. Thou from whom all helpe in earch commeth, helpe us; that ſo we may liue peaceably and quietly in all devotion and honeſtie. We haue, to confeſſe the truth, plucked downe all thy plagues, vpon our ſelues, by our ſinfulneſſe, faultineſſe, and tranſ<g ref="char:EOLhyphen"/>greſſions. But rebuke vs not in thine anger, neyther chaſten vs in thy heavie diſpleaſure. Correct vs, to amend vs, but not vtterly to de<g ref="char:EOLhyphen"/>ſtroy vs. Enlighten our eyes, that we ſleepe not in death. Returne at length, and be gra<g ref="char:EOLhyphen"/>cious vnto vs: ſatisfie vs with thy goodneſſe, that we may rejoyce &amp; be glad all the dayes
+<pb n="19" facs="tcp:185186:14"/>of our life. Comfort vs according to the time thou haſt afflicted vs; and the yeares wherein we haue ſuffered adverſitie. Re<g ref="char:EOLhyphen"/>member not our former iniquities. Haue mercy vpon vs, and that ſoone; for wee are brought very low. Helpe vs, O God our helper, for the honour of thy Name. Deliver vs and forgiue vs our ſinnes, for thy Names ſake; becauſe thou are the Lord, the higheſt aboue all the world: thou art long-ſuffering, of great goodneſſe, and gratious: nor art thou prone vnto anger and to vengeance; ſeeing to thoſe that repent, thou haſt promiſed re<g ref="char:EOLhyphen"/>miſſion of all their ſinnes. So ſhall we thy people, and the ſheepe of thy paſture, giue thee thankes for ever, and will ſpeake of thy praiſe from generation to generation. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>V.</hi> Againſt all evill.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> O Lord God, heavenly Father, that de<g ref="char:EOLhyphen"/>ſpiſeſt not the ſighing of the miſera<g ref="char:EOLhyphen"/>ble, nor the deſire of ſuch as be afflic<g ref="char:EOLhyphen"/>ted, mercifully heare our prayers which we
+<pb n="20" facs="tcp:185186:15"/>make before thee in theſe our neceſſities: and grant that thoſe evills which the Devill or man worketh againſt vs, be brought to nought, and that by the providence of thy goodneſſe, they may be diſperſed: that we being hurt by no perſecution, may giue thee thankes in thy holy Church, and prayſe thee evermore for the ſame, thorough Ieſus Chriſt thy Sonne our Lord. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another Prayer.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> O Lord God heavenly Father, who well knoweſt, that by reaſon of our hu<g ref="char:EOLhyphen"/>mane frailtie we are not able of our ſelues to ſubſiſt in ſo many dangers: graunt ſuch ſtrength vnto vs both of ſoule and bo<g ref="char:EOLhyphen"/>dy, that whatſoever doth vexe or trouble vs by reaſon of our ſinnes, wee may by thine aſſiſtance be able to overcome, through Ie<g ref="char:EOLhyphen"/>ſus Chriſt our Lord. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="21" facs="tcp:185186:15"/>
+                  <head>Another.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> ALmightie and eternall God, which out of thine own meere mercy haſt called vs miſerable ſinners vnto the know<g ref="char:EOLhyphen"/>ledge of thy ſelfe in Ieſus Chriſt; we from the bottome of our hearts entreate thee, to governe vs by thy Holy Spirit, and to guard vs by thy holy Angels; that neyther the De<g ref="char:EOLhyphen"/>vill, or naughtie people, no nor the wicked<g ref="char:EOLhyphen"/>neſſe of our own ſinfull fleſh, may thruſt vs headlong into ſecuritie, or to the leading of a wicked life, to the offence of our brethren: but that being by thee delivered out of all their ſnares, we may haue thee alwayes be<g ref="char:EOLhyphen"/>fore our eyes, loue thee aboue all, and our neighbour as our ſelues: profiting thereby in faith, charitie, hope, and patience; vntill the comming of our bleſſed Saviour Ieſus Chriſt, to deliver vs out of all theſe evils, with which we haue a daily conflict here in this world; and to tranſlate vs vnto joyes celeſtiall: To whom with thee and the Holy Ghoſt, be all honour and glory world without end. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="22" facs="tcp:185186:16"/>
+                  <head>
+                     <hi>VI.</hi> Againſt our enemies.</head>
+                  <p>O Lord Ieſus Chriſt, Sonne of the living God; thou onely art the true Souldier and Captaine, the Lord mightie in Battell: Behold, thine enemies rage mighti<g ref="char:EOLhyphen"/>ly, and thoſe that hate thee riſe vp againſt vs: they take ſubtle counſell together againſt thy people, and lay their heads together againſt thy ſecret ones. Goe too, ſay they, let vs cut the<g ref="char:cmbAbbrStroke">̄</g> off that they be no more a people, &amp; that the name of <hi>Iſrael</hi> may be blotted out. For we put not our truſt in our owne ſtrength; for we know, that there is no King that can be ſaved by the multitude of an Hoſt;<note place="margin">Pſal. 33.15.</note> ney<g ref="char:EOLhyphen"/>ther is any mightie man delivered by much ſtrength. An horſe is counted but a vaine thing to ſaue a man; neyther ſhall he deliver any man by his great ſtrength: but our truſt is in thee, that art our refuge, and a Tower of defence againſt our enemies. Thou being our Captaine,<note place="margin">Pſal. 18.29.</note> we ſhall diſcomfit an Hoſt of men; and with the helpe of our God, wee ſhall leape over the wall. Thou being our ayde, we ſhall doe famous exployts; thou
+<pb n="23" facs="tcp:185186:16"/>art able to beate our enemies to duſt: they compaſſe vs about; but in thy name we will deſtroy them: they come about vs like Bees, &amp; ſmoake againſt vs like fire among thornes; but in thy Name wee will deſtroy them. Thou overthreweſt <hi>Pharaoh</hi> and his Hoſt in the red Sea; thou conſtreynedſt <hi>Senacherib</hi> to turne againe into his owne Country: thou overthreweſt proud <hi>Haman;</hi> and threweſt owne the haughtie <hi>Holofernes.</hi> So Lord deale with our enemies: doe vnto them as thou diddeſt vnto the <hi>Madianites,</hi> and as vnto <hi>Siſera</hi> and <hi>Iabin</hi> at the brooke <hi>Kiſon.</hi> Make their Princes like <hi>Oreb</hi> and <hi>Zeb;</hi> and their Leaders like vnto <hi>Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ba</hi> and <hi>Salmana.</hi> Let the miſchiefe which they prepare for others, fall vpon their owne heads; and their wickedneſſe vpon their owne pates. So ſhall wee ſing of thy power, and prayſe thy goodneſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> betimes in the morning For thou God art our Protec<g ref="char:EOLhyphen"/>tor, &amp; our refuge in all our neceſſities Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer of King <hi>Aſa, 2</hi> Chron. <hi>14.11</hi> &amp;c.</head>
+                  <p>AS A cryed vnto the Lord his God and ſaid; Lord, it is nothing with thee, to helpe, whether with many, or with
+<pb n="24" facs="tcp:185186:17"/>them that haue no power. Helpe vs O Lord our God, for we reſt on thee, and in thy name we goe againſt this multitude. O Lord thou art our God, let not man prevaile a<g ref="char:EOLhyphen"/>gainſt vs.</p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer of <hi>Iudas Macchabaeus</hi> vnto his Souldiers, <hi>1 Macchab. 4.8.</hi>
+                  </head>
+                  <p>THen ſayd <hi>Iudas</hi> to the men that were with him, Feare yee not their multi<g ref="char:EOLhyphen"/>tude, neyther be yee afraid of their aſ<g ref="char:EOLhyphen"/>ſault. Remember how our Fathers were de<g ref="char:EOLhyphen"/>livered in the red Sea, when <hi>Pharaoh</hi> purſued them with an Army. Now therefore let vs cry vnto Heaven, if peradventure the Lord will haue mercy vpon vs, and remember the Covenant of our Fathers, and deſtroy this Hoſt before our face this day. That ſo all the Heathen may know, that there is one, who delivereth and ſaveth <hi>Iſrael.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="25" facs="tcp:185186:17"/>
+                  <head>A Prayer of <hi>Luther</hi> for Souldiers, found in the <hi>3.</hi> Tome of the Edition at <hi>Iena,</hi> fol. <hi>330.</hi>
+                  </head>
+                  <p>HEavenly Father, here am I by thy di<g ref="char:EOLhyphen"/>vine will in this externall calling, un<g ref="char:EOLhyphen"/>der the Command of my Generall; firſt to ſerue thee, as is fitting; and then for thee to obey my Captaine. I giue due thanks unto thy goodneſſe and mercy, that thou haſt called me unto this condition, and ſet me about that worke, which I aſſuredly know to be no ſinne, but a right action, and a ſervice acceptable unto thy will. And for that I haue learned out of thy ſaving Word, that our owne good workes doe not profit us for the meriting of ſalvation; and that no man is ſaved for that he is a Souldier, but for that he is a Chriſtian; I will not therefore put my confidence in this worke and ſervice of mine: but what ever I doe, I will doe it with a good will, as to doe thee a ſervice: and I out of the bottom of my heart beleeue, that I am redeemed and ſaved, onely by the innocent bloud of thy beloved Sonne, my Lord Ieſus Chriſt, which according to thy will, he ſhed for me vpon the Altar of the
+<pb n="26" facs="tcp:185186:18"/>Croſſe. In this beliefe I reſolue to ſtand, in this will I liue and dye; for this doe I now fight and take paines: O Lord God, heaven<g ref="char:EOLhyphen"/>ly Father, preſerue and encreaſe this faith in me, through thy Holy Spirit. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>Againſt the Plague, and other noyſome Diſeaſes.</head>
+                  <p>A Almightie God, Lord and Father of all grace and conſolation, haue mercy vp<g ref="char:EOLhyphen"/>on vs, and vpon thy Chriſtian people. Conſume vs not in thy fury by this contagi<g ref="char:EOLhyphen"/>ous peſtilence: but as in the time of <hi>David</hi> thou commaundedſt the deſtroying Angell to hold his hand, and giue over killing: ſo cauſe, O moſt gracious Lord, this terrible rod of thine anger to ceaſe from vs, and not to deſtroy thine afflicted people. Strengthen vs with the wholſome power of thy Word, that we may be healthy both in ſoule &amp; bo<g ref="char:EOLhyphen"/>dy; that we may laud &amp; prayſe thee here on earth for a time, and for ever in the Heavens. O Lord Ieſus Chriſt, ſuccour vs in this ſickly time, for thoſe bitter paines that for our ſakes thou ſometimes enduredſt: make in<g ref="char:EOLhyphen"/>terceſſion
+<pb n="27" facs="tcp:185186:18"/>for vs with thy heavenly Father: defend vs againſt the heavie wrath of God; forgiue vs our treſpaſſes; giue thine inno<g ref="char:EOLhyphen"/>cency vnto vs. Call to minde in this grievous plague-time, how much our Redemption coſt thee, and ſuffer not that thy bloud-ſhed for vs, to be loſt, or become in vaine. O Ho<g ref="char:EOLhyphen"/>ly Ghoſt, vouchſafe thou to deſcend ſweet<g ref="char:EOLhyphen"/>ly into our languiſhing hearts; refreſh thou and recreate our ſoules. And if it ſo fall out that this plague ſtrike vs alſo, then take thou the cure of our ſoules in that houre, in which we muſt depart out of this life: lay vs in the moſt ſweete boſome of Chriſt our Redee<g ref="char:EOLhyphen"/>mer, that we may be there partakers of eter<g ref="char:EOLhyphen"/>nall joy and quietneſſe. Fulfill all thy moſt ſweete promiſes in us, which are in thy Word made unto vs. Take from us all un<g ref="char:EOLhyphen"/>beliefe, doubting, and impatience: make us ever readie to obey the will of God, even thou, who with the Father and the Sonne, liveſt one God world without end. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="28" facs="tcp:185186:19"/>
+                  <head>Of forgiueneſſe of Sinnes: and of the Lords Supper.</head>
+                  <p>O Good Lord Ieſus Chriſt: I am no way able eyther in words or thought, ſuf<g ref="char:EOLhyphen"/>ficiently to make expreſſion of thy great loue, which thou haſt declared towards me, at ſuch time as thou receivedſt me miſe<g ref="char:EOLhyphen"/>rable ſinner into grace, and haſt made me to eate and drinke of thy true body and bloud, vnto euerlaſting life. Accept in the meane time this ſacrifice of Thankeſgiving of my heart and mouth, which in this mortall bo<g ref="char:EOLhyphen"/>die I am able to pay unto thee; untill I come home unto thee, where I ſhall for ever praiſe thee. Giue thy Holy Spirit unto me, who may teach me to know how much good thou haſt alreadie wrought in me: that ſo in faith, charitie, hope, &amp; patience, I may begin to leade a new life; vnto thy prayſe, mine owne amendment, and the good of my neighbour. Grant this for the merit of thy precious bloud, and the redemption which thou thereby haſt made, Amen.</p>
+                  <pb n="29" facs="tcp:185186:19"/>
+                  <p>And theſe be ſome of thoſe devout prayers, with which this moſt pious Prince teaches his Army, to call vpon the Lord of Hoſts and Victory. Now vnto theſe good prayers, let all religious Readers that wiſh well vnto this King; adde this or the like, for a cloſe vnto the reſt. The Lord heare thee in the time of trouble, and the name of the God of <hi>Iacob</hi> defend thee; be vnto thee a Shield, and Buckler, againſt thine enemies: arme thee with the ſword of <hi>Gideon:</hi> and the Lord of Hoſts goe forth with thine Armies: that the Victories which God ſhall giue thee, may bring freedome and juſtice vnto the inno<g ref="char:EOLhyphen"/>cent and oppreſſed, inlargement to Religion, liberty to <hi>Germany:</hi> and the benefits of a ſweet and a laſting peace vnto all Chriſtendome. This grant vs for the Prince of Peace his ſake, Ieſus Chriſt our Lord. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <p>ANd now that you may know that the King of <hi>Sweden</hi> doth not onely enjoyne others to pray, but that in his owne perſon he practiſes theſe devotions by him<g ref="char:EOLhyphen"/>ſelfe; I will here ſubjoyne you two ſeverall prayers, conceived, no doubt, in his owne
+<pb n="30" facs="tcp:185186:20"/>more private and premeditated conſiderati<g ref="char:EOLhyphen"/>on; and uttered in publicke, and <hi>extempore,</hi> as it ſeemed. The firſt was at his Majeſties firſt landing upon the coaſts of <hi>Germanie;</hi> where ſo ſoone as ever he out of his long boate ſet his foote upon the dry Land, he thus by prayer and thankeſgiving, in Gods Name tooke poſſeſſion of the Countrey; himſelfe whileſt his men were landing, ſtep<g ref="char:EOLhyphen"/>ping a little aſide, and before them all, upon his knees, uttering theſe words of devotion. O moſt great God, that commaundeſt what ever thou pleaſeſt both in heaven, and earth, and in the ſurging Seas: what thankfulneſſe am I now bound to render unto thee, for that thou haſt preſerved me thus ſafely, in all this ſo perilous a voyage? Againe and a<g ref="char:EOLhyphen"/>gaine doe I from the very bottome of my heart and ſoule, giue thankes unto thee: and here I humbly beſeech thee, that ſeeing, as thou very well knoweſt, I haue not un<g ref="char:EOLhyphen"/>dertaken this expedition for any private end of mine owne, but onely for thine honours ſake; and to be ſome comfort and aſſiſtance unto thine afflicted Church: ſo (if ſo be the time which thy ſelfe haſt appoynted, be al<g ref="char:EOLhyphen"/>readie come) thou wouldſt now be pleaſed
+<pb n="31" facs="tcp:185186:20"/>to favour and bleſſe me hereafter alſo: and that, eſpecially, thou wouldſt ſend me a fayre winde and a proſperous; that the Army yet left behinde, which out of ſo ma<g ref="char:EOLhyphen"/>ny people and Nations I haue gathered toge<g ref="char:EOLhyphen"/>ther; I may with joyfull eyes ſhortly here behold, and with a happie beginning pro<g ref="char:EOLhyphen"/>mote with them the glory of thy holy name. Amen.</p>
+                  <p>When his Counſellors and Commanders then next his perſon, ſaw their devout King thus on the bare ground upon his knees; and heard with what a fervencie of ſpirit he uttered theſe devotions; an inward comfort and an holy joy they tooke at it, wrought more with them than their enemies could yet ever doe; that is, even forced, and preſſed teares out of their manly eyes. This his pi<g ref="char:EOLhyphen"/>ous Majeſtie then perceiving, Forbeare to weepe, ſayes he to them, but heartily con<g ref="char:EOLhyphen"/>joyne your prayers with me: for the greater the army of prayers is, the greater and more aſſured ſhall the victory be. He that prayes diligently, hath in part overthrowne the e<g ref="char:EOLhyphen"/>nemy already, and already gotten the victo<g ref="char:EOLhyphen"/>ry. Thus having ſayd, he out of two hundred long boates lands his men, then on the
+<pb n="32" facs="tcp:185186:21"/>ſhoares ſide, and then ſends them to his ſhippes to fetch more: and God ſo heard him, and the winde ſo favoured him; that according to his former prayers, his whole Army very ſhortly, and very ſafely arri<g ref="char:EOLhyphen"/>ved.</p>
+                  <p>I will not here compare this prayer of this pious and victorious Prince, vnto that of the great <hi>Ioſuah;</hi> at whoſe requeſt the Sunne ſtood ſtill, as the winde here did at his: but that you may ſee that God did indeed heare the prayers of this King too; I will now giue you a more eminent example of it. The Papiſts, had one of theirs done it, would un<g ref="char:EOLhyphen"/>doubtedly haue cryed out, A miracle: and well they might: for few ſuch they haue, but I will onely thinke of it, as of a preſent and a viſible bleſſing ſent from that great God, to whom the windes and the Seas o<g ref="char:EOLhyphen"/>beyed. And thus it was.</p>
+                  <p>The King a little after this, having a de<g ref="char:EOLhyphen"/>ſigne upon <hi>Stetin;</hi> and his Army now readie upon the ſhoare, and his boats readie upon the River to imbarke them; the winde, be<g ref="char:EOLhyphen"/>hold, was contrary, and ſo had beene for ſome dayes before. This the King obſer<g ref="char:EOLhyphen"/>ving, turning a little aſide, he before his Ar<g ref="char:EOLhyphen"/>my
+<pb n="33" facs="tcp:185186:21"/>with bended knees, and hands lift up to Heaven, uttered theſe words.</p>
+                  <p>O thou moſt juſt God! full well thou knoweſt, that this enterpriſe I did not at firſt undertake, out of any raſhneſſe, or am<g ref="char:EOLhyphen"/>bition, but for the glory of thy moſt holy Name, and the defence of the truth of thy Word: here, therefore, now call I vpon thy Godhead, and moſt humbly doe I beſeech thee; that with the ayre of thy favour, and with a proſperous winde, thou wouldſt vouchſafe to breath vpon this my vnderta<g ref="char:EOLhyphen"/>king. Amen.</p>
+                  <p>No ſooner was this prayer ended, but the winde ſuddenly, as a man might ſay, chopt about, and ſwel'd the <hi>Swediſh</hi> ſayles with ſo hard a gale, that the whole Fleete paſſing the <hi>Swing,</hi> or arme of the <hi>Oder,</hi> was in two houres ſpace runne full ſixe <hi>Germane</hi> myles (twentie of ours perchance if not more) and all on the ſudden, when they were little looked for, came to an Anchor within an <hi>Engliſh</hi> myle of <hi>Stetin,</hi> to the great admira<g ref="char:EOLhyphen"/>tion of the beholders, and the greater de<g ref="char:EOLhyphen"/>feate
+<pb n="34" facs="tcp:185186:22"/>of the hopes and purpoſes of the <hi>Im<g ref="char:EOLhyphen"/>perialiſts;</hi> who had a deſigne within two dayes after, to haue layd ſiege to the ſame Towne, had not God thus miraculouſly prevented them.</p>
+                  <p>And thus much, though I now giue you, out of a <hi>Latine</hi> Copie; yet, to confeſſe the truth, did I in the writing of my former Booke, finde mentioned in one of the week<g ref="char:EOLhyphen"/>ly <hi>Currantoes:</hi> how that the Kings Fleete was by a ſtrong and a ſudden Northerly winde, ſtrangely advanced through the <hi>Oder,</hi> even to the very walles of the Citie. But this I durſt not then write, vpon the bare credite of a common <hi>Curranto;</hi> nor durſt I with this winde (though a ſtrong one it were) ad<g ref="char:EOLhyphen"/>venture to ſtemme the tyde of popular opi<g ref="char:EOLhyphen"/>nion; which I found not onely to runne a<g ref="char:EOLhyphen"/>gainſt, but (to vſe the language of the Sea) with a ſtiffe currant ſtrongly to be ſet againſt the credite of theſe weekly <hi>Currantoes.</hi> Which warineſſe of mine, made me indeed to leaue out many notable particulars, which I ſince finde reported, in the Booke called <hi>Arma Sue<g ref="char:EOLhyphen"/>cica.</hi>
+                  </p>
+                  <p>God Almightie, that hath ſo graciouſly
+<pb n="35" facs="tcp:185186:22"/>both heard and granted, theſe two prayers of this pious King; heare all the reſt alſo; both thoſe that himſelfe makes, and what other good Chriſtians make likewiſe for him. And thoſe <hi>Engliſhmen</hi> that will not, I wiſh they would ſay <hi>Amen</hi> vnto it.</p>
+                  <pb facs="tcp:185186:23"/>
+                  <pb facs="tcp:185186:23"/>
+                  <pb facs="tcp:185186:24"/>
+                  <pb facs="tcp:185186:24"/>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
